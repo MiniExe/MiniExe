@@ -25,15 +25,13 @@ Beginner developer • Game modding • Learning by breaking things
 - > Currently learning: Clickteam Fusion, C, C#, Lua, Python, GameMaker
 - > Interested in game modding, engines, tools, server stuff
 - > Love experimenting, even if it breaks first
-
----
-
-### 🎧 Music
 - Love listening to music while coding  
 - Mostly using Spotify
 <p align="left">
   <img src="https://img.shields.io/badge/Listening%20to-Spotify-1DB954?style=for-the-badge&logo=spotify">
 </p>
+
+---
 
 ### 🌐 Contact me
 <p align="left">
