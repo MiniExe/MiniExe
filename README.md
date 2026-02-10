@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mini Exe!</h1>
 <h3 align="center">
-Beginner developer • Game modding • Learning by breaking things 😄
+Beginner developer • Game modding • Learning by breaking things
 </h3>
 
 ---
