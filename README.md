@@ -1,8 +1,20 @@
-<h1 align="center">
-  Hi 👋, I'm 
-  <span style="color:#8b5cf6;">Mini</span>
-  <span style="color:#ef4444;">Exe</span>!
-</h1>
+<p align="center">
+<svg width="520" height="60" viewBox="0 0 520 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="45"
+        text-anchor="middle"
+        font-size="42"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="url(#grad)">
+    Hi 👋, I'm Mini Exe!
+  </text>
+</svg>
+</p>
 <h3 align="center">
 Beginner developer • Game modding • Learning by breaking things
 </h3>
@@ -15,6 +27,13 @@ Beginner developer • Game modding • Learning by breaking things
 - > Love experimenting, even if it breaks first
 
 ---
+
+### 🎧 Music
+- Love listening to music while coding  
+- Mostly using Spotify
+<p align="left">
+  <img src="https://img.shields.io/badge/Listening%20to-Spotify-1DB954?style=for-the-badge&logo=spotify">
+</p>
 
 ### 🌐 Contact me
 <p align="left">
@@ -29,25 +48,11 @@ Discord ID: <code>1082022476554457218</code>
 ---
 
 ### 🧰 Languages and Tools
+### 🛠️ Tools & Environment
 <p align="left">
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- IDEs -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/GameMaker-Used-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?style=for-the-badge">
 </p>
 
 ---
