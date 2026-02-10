@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mini Exe!</h1>
+<h1 align="center">
+  Hi 👋, I'm 
+  <span style="color:#8b5cf6;">Mini</span>
+  <span style="color:#ef4444;">Exe</span>!
+</h1>
 <h3 align="center">
 Beginner developer • Game modding • Learning by breaking things
 </h3>
