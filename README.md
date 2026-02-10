@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Clickteam Fusion, C, C#, Lua, Python, GameMaker**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
