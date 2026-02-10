@@ -18,7 +18,7 @@ Beginner developer • Game modding • Learning by breaking things
 
 ---
 
-### 🌐 Contact me
+### 🌐 Contact me:
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-@miniexe__-5865F2?style=for-the-badge&logo=discord">
   <img src="https://img.shields.io/badge/Telegram-@mini__exe-26A5E4?style=for-the-badge&logo=telegram">
@@ -30,8 +30,7 @@ Discord ID: <code>1082022476554457218</code>
 
 ---
 
-### 🧰 Languages and Tools
-### 🛠️ Tools & Environment
+### Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/GameMaker-Used-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-IDE-007ACC?style=for-the-badge">
