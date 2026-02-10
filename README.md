@@ -1,22 +1,6 @@
-<p align="center">
-<svg width="520" height="60" viewBox="0 0 520 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="45"
-        text-anchor="middle"
-        font-size="42"
-        font-family="Segoe UI, Arial, sans-serif"
-        fill="url(#grad)">
-    Hi 👋, I'm Mini Exe!
-  </text>
-</svg>
-</p>
+<h1 align="center">Hi 👋, I'm Mini Exe!</h1>
 <h3 align="center">
-Beginner developer • Game modding • Learning by breaking things
+Beginner developer • Game modding • Learning by breaking things 😄
 </h3>
 
 ---
